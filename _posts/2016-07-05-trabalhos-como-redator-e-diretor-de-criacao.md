@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Trabalhos como Redator e Diretor de Criação '
-datePublished: '2016-07-05T20:15:07.510Z'
-dateModified: '2016-07-05T20:14:42.066Z'
+datePublished: '2016-07-05T20:15:49.100Z'
+dateModified: '2016-07-05T20:15:16.262Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-05-trabalhos-como-redator-e-diretor-de-criacao.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-05-trabalhos-como-redator-e-diretor-de-criacao.md
 url: trabalhos-como-redator-e-diretor-de-criacao/index.html
 _type: Article
 
