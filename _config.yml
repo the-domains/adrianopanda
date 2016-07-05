@@ -1,0 +1,28 @@
+name: AdrianoPanda
+favicon: null
+layout_spectrum: 0.7799168943893164
+typography_spectrum: 0.9805391763802618
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.16658658673986793
+  lightness: 0.7107798734214157
+  saturation: 0.22267915308475494
+  rhythmicContrast: 0.9628598077688366
+purpose: []
